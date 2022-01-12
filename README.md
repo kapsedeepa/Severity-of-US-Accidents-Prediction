@@ -20,7 +20,7 @@ Severity of US Accidents Prediction– US countrywide traffic accident (2016-20)
 
 
 
-**References**
+**3. References:**
 
 [1] Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019. 
 
